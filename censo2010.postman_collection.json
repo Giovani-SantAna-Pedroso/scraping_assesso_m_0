@@ -1,0 +1,320 @@
+{
+	"info": {
+		"_postman_id": "ef44ec79-908a-4ed5-8a21-18c1d8e60198",
+		"name": "censo2010",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25067205"
+	},
+	"item": [
+		{
+			"name": "Mapa_Brasil_ambos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicodados.ibge.gov.br/api/v1/censos/nomes/mapa?nome=Ana",
+					"protocol": "https",
+					"host": [
+						"servicodados",
+						"ibge",
+						"gov",
+						"br"
+					],
+					"path": [
+						"api",
+						"v1",
+						"censos",
+						"nomes",
+						"mapa"
+					],
+					"query": [
+						{
+							"key": "nome",
+							"value": "Ana"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Mapa_Brasil_ambos_F",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicodados.ibge.gov.br/api/v1/censos/nomes/mapa?nome=Ana",
+					"protocol": "https",
+					"host": [
+						"servicodados",
+						"ibge",
+						"gov",
+						"br"
+					],
+					"path": [
+						"api",
+						"v1",
+						"censos",
+						"nomes",
+						"mapa"
+					],
+					"query": [
+						{
+							"key": "nome",
+							"value": "Ana"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Basica_Brasil_ambos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicodados.ibge.gov.br/api/v1/censos/nomes/basica?nome=Ana",
+					"protocol": "https",
+					"host": [
+						"servicodados",
+						"ibge",
+						"gov",
+						"br"
+					],
+					"path": [
+						"api",
+						"v1",
+						"censos",
+						"nomes",
+						"basica"
+					],
+					"query": [
+						{
+							"key": "nome",
+							"value": "Ana"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Basica_Acre_ambos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicodados.ibge.gov.br/api/v1/censos/nomes/basica?nome=Ana",
+					"protocol": "https",
+					"host": [
+						"servicodados",
+						"ibge",
+						"gov",
+						"br"
+					],
+					"path": [
+						"api",
+						"v1",
+						"censos",
+						"nomes",
+						"basica"
+					],
+					"query": [
+						{
+							"key": "nome",
+							"value": "Ana"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Basica_Acre_Acrelandia_ambos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicodados.ibge.gov.br/api/v1/censos/nomes/basica?nome=Ana",
+					"protocol": "https",
+					"host": [
+						"servicodados",
+						"ibge",
+						"gov",
+						"br"
+					],
+					"path": [
+						"api",
+						"v1",
+						"censos",
+						"nomes",
+						"basica"
+					],
+					"query": [
+						{
+							"key": "nome",
+							"value": "Ana"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Basica_Brasil_ambos_F",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicodados.ibge.gov.br/api/v1/censos/nomes/basica?nome=Ana",
+					"protocol": "https",
+					"host": [
+						"servicodados",
+						"ibge",
+						"gov",
+						"br"
+					],
+					"path": [
+						"api",
+						"v1",
+						"censos",
+						"nomes",
+						"basica"
+					],
+					"query": [
+						{
+							"key": "nome",
+							"value": "Ana"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Faixa_Acre_Acrelandia_ambos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicodados.ibge.gov.br/api/v1/censos/nomes/faixa?nome=Ana",
+					"protocol": "https",
+					"host": [
+						"servicodados",
+						"ibge",
+						"gov",
+						"br"
+					],
+					"path": [
+						"api",
+						"v1",
+						"censos",
+						"nomes",
+						"faixa"
+					],
+					"query": [
+						{
+							"key": "nome",
+							"value": "Ana"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Faixa_Brasil_ambos Copy",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicodados.ibge.gov.br/api/v1/censos/nomes/faixa?nome=Ana",
+					"protocol": "https",
+					"host": [
+						"servicodados",
+						"ibge",
+						"gov",
+						"br"
+					],
+					"path": [
+						"api",
+						"v1",
+						"censos",
+						"nomes",
+						"faixa"
+					],
+					"query": [
+						{
+							"key": "nome",
+							"value": "Ana"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Faixa_Acre_ambos",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicodados.ibge.gov.br/api/v1/censos/nomes/faixa?nome=Ana",
+					"protocol": "https",
+					"host": [
+						"servicodados",
+						"ibge",
+						"gov",
+						"br"
+					],
+					"path": [
+						"api",
+						"v1",
+						"censos",
+						"nomes",
+						"faixa"
+					],
+					"query": [
+						{
+							"key": "nome",
+							"value": "Ana"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Faixa_Brasil_ambos_F",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://servicodados.ibge.gov.br/api/v1/censos/nomes/faixa?nome=Ana",
+					"protocol": "https",
+					"host": [
+						"servicodados",
+						"ibge",
+						"gov",
+						"br"
+					],
+					"path": [
+						"api",
+						"v1",
+						"censos",
+						"nomes",
+						"faixa"
+					],
+					"query": [
+						{
+							"key": "nome",
+							"value": "Ana"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
